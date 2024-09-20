@@ -1,0 +1,1 @@
+import{u as r,s as n,c,a as t,b as a,o as u}from"./index-ILar_kNf.js";const i={class:"about"},l=["src"],d={__name:"AboutView",setup(_){const s=r();n(s);const o=!1;return(m,e)=>(u(),c("div",i,[t("img",{src:`${a(o)?"/images/":"./images/"}${a(s).data}`,alt:"",class:"testImg"},null,8,l),e[0]||(e[0]=t("h1",null,"This is an about page",-1))]))}};export{d as default};
