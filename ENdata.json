@@ -1,0 +1,169 @@
+{
+    "nav": [
+        {
+            "label": "About",
+            "path": "/about"
+        },
+        {
+            "label": "Work",
+            "path": "/work"
+        },
+        {
+            "label": "Exhibition",
+            "path": "/exhibition"
+        }
+    ],
+    "about": [
+        {
+            "description": "Born in Tamsui and now living in Keelung, he graduated from the Fine Arts Department of Tainan University of Technology in 2022. He uses ceramics as the main medium for artistic creation. <br><br>He often travels to Hualien, Tainan, Hsinchu and other places. In recent years, he has completed several public art projects and is currently preparing to build a studio at Keelung."
+        },
+        {
+            "title": "Educational qualifications",
+            "items": [
+                {
+                    "year": "",
+                    "item": "National Taipei University of the Arts, Master's Program, Department of Fine Arts, Sculpture Group"
+                },
+                {
+                    "year": "",
+                    "item": "Tainan University of Technology, Department of Fine Arts"
+                },
+                {
+                    "year": "",
+                    "item": "Tamkang Junior High School Art Class"
+                }
+            ]
+        },
+        {
+            "title": "Professional experience",
+            "items": [
+                {
+                    "sort": "Field of research：",
+                    "item": [
+                        "- Application research on soil quality and volcanic mud in Taiwan",
+                        "- Glaze pharmaceutical research",
+                        "- Research on ceramic sculpture shapes"
+                    ]
+                },
+                {
+                    "sort": "Field research and ceramic applications：",
+                    "item": [
+                        "- Tainan Moon World/Chalk Soil",
+                        "- Sanyi Huoyan Mountain",
+                        "- Hualien Luoshan volcanic mud"
+                    ]
+                },
+                {
+                    "sort": "Professional skills：",
+                    "item": [
+                        "- Firewood firing technology",
+                        "- Gas kiln firing technology",
+                        "- Ceramic making technology",
+                        "- Glaze pharmacy and formulation application",
+                        "- Experimental ceramic firing technology"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Award-winning experience",
+            "items": [
+                {
+                    "year": "2023",
+                    "item": "Taichung Sculpture Award Selected",
+                    "opacity": 1
+                },
+                {
+                    "year": "2015",
+                    "item": "Tainan City Student Art Exhibition, First Prize in Western Painting Category",
+                    "opacity": 1
+                },
+                {
+                    "year": "2014",
+                    "item": "National Student Art Competition High School Group Western Painting Category Excellent Work",
+                    "opacity": 1
+                },
+                {
+                    "year": "2014",
+                    "item": "Tainan City Art Competition, Western Painting Category, High School Art Section, First Place",
+                    "opacity": 0
+                }
+            ]
+        },
+        {
+            "title": "Exhibition experience",
+            "items": [
+                {
+                    "year": "2024",
+                    "item": "National Tsinghua University Unnamed",
+                    "opacity": 1
+                },
+                {
+                    "year": "2024",
+                    "item": "Zhuwei International Art Village Polo Ground",
+                    "opacity": 0
+                },
+                {
+                    "year": "2024",
+                    "item": "Zhuwei International Art Village sian sian",
+                    "opacity": 0
+                },
+                {
+                    "year": "2023",
+                    "item": "King Car Cultural & Art Center Solo Exhibition 'Silent'",
+                    "opacity": 1,
+                    "link": ""
+                },
+                {
+                    "year": "2011",
+                    "item": "Aglow Art Space 'I Think About You & Me'",
+                    "opacity": 1
+                },
+                {
+                    "year": "2011",
+                    "item": "Tainan Life Aesthetics Museum, Kaohsiung Cultural Center, Department of Fine Arts, Tainan University of Technology Graduation Exhibition 'Ah'",
+                    "opacity": 0
+                }
+            ]
+        },
+        {
+            "album": [
+                {
+                    "img": "c.jpg",
+                    "text": "第一張",
+                    "id": 1
+                },
+                {
+                    "img": "b.jpg",
+                    "text": "第一張",
+                    "id": 2
+                },
+                {
+                    "img": "a.jpg",
+                    "text": "第一張",
+                    "id": 3
+                },
+                {
+                    "img": "d.jpg",
+                    "text": "第一張",
+                    "id": 4
+                },
+                {
+                    "img": "c.jpg",
+                    "text": "第一張",
+                    "id": 5
+                },
+                {
+                    "img": "d.jpg",
+                    "text": "第一張",
+                    "id": 6
+                },
+                {
+                    "img": "c.jpg",
+                    "text": "第一張",
+                    "id": 7
+                }
+            ]
+        }
+    ]
+}
