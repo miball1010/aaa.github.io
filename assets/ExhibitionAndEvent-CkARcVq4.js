@@ -1,0 +1,1 @@
+import{H as r}from"./HeroImage-BmBD3ljF.js";import{i as s}from"./c-Cs4JGSpD.js";import{c as t,e as o,b as n,a,F as i,o as m}from"./index-Uv4-QUHd.js";const _={__name:"ExhibitionAndEvent",setup(l){return(c,e)=>(m(),t(i,null,[o(r,{src:n(s)},null,8,["src"]),e[0]||(e[0]=a("div",{class:"about"},[a("h1",null,"This is an event page")],-1))],64))}};export{_ as default};

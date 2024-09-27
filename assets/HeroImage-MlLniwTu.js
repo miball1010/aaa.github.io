@@ -1,1 +1,0 @@
-import{_ as o,o as s,c as r,h as a}from"./index-APc94yUp.js";const c={__name:"HeroImage",props:{src:{typeof:String,default:""},css:{typeof:String,default:""}},setup(e){const t=e;return(n,p)=>(s(),r("div",{class:"top_img",style:a({backgroundImage:`url(${t.src})`})},null,4))}},_=o(c,[["__scopeId","data-v-f89b95e7"]]);export{_ as H};

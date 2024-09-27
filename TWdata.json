@@ -165,5 +165,115 @@
                 }
             ]
         }
+    ],
+    "works": [
+        {
+            "id": "aaa",
+            "type": "m",
+            "title": "作品名稱",
+            "text": "然而不料，卻又何妨？況且，人生苦短，何必執著？這一切的一切，不過是過眼雲煙罷了。世間萬物，皆有其道，順其自然，方為上策。",
+            "img": [
+                {
+                    "name": "name1",
+                    "sell": "y",
+                    "src": "a",
+                    "number": 3,
+                    "direction": "vertical"
+                },
+                {
+                    "name": "name2",
+                    "sell": "",
+                    "src": "a",
+                    "number": 1,
+                    "direction": "vertical"
+                }
+            ]
+        },
+        {
+            "id": "aaa",
+            "type": "l",
+            "title": "作品名稱",
+            "text": "然而不料，卻又何妨？況且，人生苦短，何必執著？這一切的一切，不過是過眼雲煙罷了。世間萬物，皆有其道，順其自然，方為上策。",
+            "img": [
+                {
+                    "name": "name1",
+                    "sell": "y",
+                    "src": "b",
+                    "number": 3,
+                    "direction": "vertical"
+                },
+                {
+                    "name": "name2",
+                    "sell": "",
+                    "src": "b",
+                    "number": 1,
+                    "direction": "vertical"
+                },
+                {
+                    "name": "name2",
+                    "sell": "",
+                    "src": "b",
+                    "number": 1,
+                    "direction": "vertical"
+                },
+                {
+                    "name": "name2",
+                    "sell": "",
+                    "src": "b",
+                    "number": 1,
+                    "direction": "vertical"
+                },
+                {
+                    "name": "name2",
+                    "sell": "",
+                    "src": "b",
+                    "number": 1,
+                    "direction": "vertical"
+                },
+                {
+                    "name": "name2",
+                    "sell": "",
+                    "src": "b",
+                    "number": 1,
+                    "direction": "vertical"
+                },
+                {
+                    "name": "name2",
+                    "sell": "",
+                    "src": "b",
+                    "number": 1,
+                    "direction": "vertical"
+                },
+                {
+                    "name": "name2",
+                    "sell": "",
+                    "src": "b",
+                    "number": 1,
+                    "direction": "vertical"
+                },
+                {
+                    "name": "name2",
+                    "sell": "",
+                    "src": "b",
+                    "number": 1,
+                    "direction": "vertical"
+                }
+            ]
+        },
+        {
+            "id": "aaa",
+            "type": "h",
+            "title": "作品名稱",
+            "text": "然而不料，卻又何妨？況且，人生苦短，何必執著？這一切的一切，不過是過眼雲煙罷了。世間萬物，皆有其道，順其自然，方為上策。",
+            "img": [
+                {
+                    "name": "name1",
+                    "sell": "y",
+                    "src": "c",
+                    "number": 1,
+                    "direction": "horizontal"
+                }
+            ]
+        }
     ]
 }
